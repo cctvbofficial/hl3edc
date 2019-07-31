@@ -1,8 +1,35 @@
-# Welcome to GitHub Pages
+# 故事背景
 
-You can use the [editor on GitHub](https://github.com/moonshine1000/hl3edc/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+合成人入侵地球後，以高壓方法統治及奴役人類，香城也不例外。反抗軍在香城缺乏正式裝備，難以作為，但香城卻有各式材料，香城人科學教育水平極高，設計人材輩出，不少工程師亦可作後勤，能以另類方式支援反抗軍。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 活動目標
 
-## Markdown
+以有趣、生動和實在（非抽像理倫）的方式推動STEM（科學、技術、工程及數學）教育
 
+# 要求
+
+* 3至5人一組
+* 以日常生活用品及隨街可得材料制作
+* 能不被合成人懷疑下收集材料及工具
+* 成功攜帶材料及工具下通過合成人<sup>1</sup>檢查關卡
+* 1小時內於現場完成搜集最後材料及組合（可提前準備半成品）
+
+# 評分準則
+
+* 實驗形式評估的有效性
+* 成本
+* 材料常見度
+* 材料可疑度
+
+# 特殊加分項目
+
+* 能抵擋橡膠子彈的盾牌
+* 中和催淚彈的器具
+
+# 獎品
+
+待定
+
+---
+
+<sup>1</sup>合成人由工作人員扮演
